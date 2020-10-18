@@ -1,4 +1,4 @@
-# Case Disposition Inefficency in North Carolina
+# Case Disposition Inefficiency in North Carolina
 
 The scope of this project is to observe potential factors affecting the efficency of North Carolina's judicial system and focuses primarily on criminal matters.  For the sake of data analytics, I will define efficiency as the ***case disposition efficiency***, or the ratio of the ***number of cases disposed*** to ***number of pending cases*** with respect to all felony cases of violent crimes (rape and sexual assault, robbery, assault, murder).  All data provided is county level for the 2012-2018 fiscal years (FY).  I will use several features compiled from different datasets to create a machine learning model that will perform the following tasks:
 
